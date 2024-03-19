@@ -1,0 +1,11 @@
+services:
+  api:
+    build:
+      context: .
+    image: fretbored-api
+  client:
+    build:
+      context: .
+    image: fretbored-frontend
+    ports:
+      - "3000:80"

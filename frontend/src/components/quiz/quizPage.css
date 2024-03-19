@@ -1,0 +1,32 @@
+.quizPage {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.quizContainer {
+    background-color: #EEE2DC;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    flex: auto;
+}
+
+.submitAnswer {
+    padding: 30px;
+    border-radius: 20px 20px;
+    background: #FFFFF0;
+    color: cadetblue;
+}
+
+.submitAnswer:hover {
+    background: cadetblue;
+    color: #FFFFF0;
+}
+
+.question {
+    font-size: 30px;
+    color: #123C69;
+    font-weight: 400;
+}
