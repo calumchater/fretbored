@@ -1,0 +1,5474 @@
+[
+    {
+        "notes": [
+            "A",
+            "C#",
+            "E"
+        ],
+        "chord_type": "Major",
+        "name": "A Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,0",
+            "2,2",
+            "3,2"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "D",
+            "F"
+        ],
+        "chord_type": "Major",
+        "name": "A# Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,1",
+            "2,3",
+            "3,3"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D#",
+            "F#"
+        ],
+        "chord_type": "Major",
+        "name": "B Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,2",
+            "2,4",
+            "3,4"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "E",
+            "G"
+        ],
+        "chord_type": "Major",
+        "name": "C Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,3",
+            "2,5",
+            "3,5"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "F",
+            "G#"
+        ],
+        "chord_type": "Major",
+        "name": "C# Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,4",
+            "2,6",
+            "3,6"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F#",
+            "A"
+        ],
+        "chord_type": "Major",
+        "name": "D Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,5",
+            "2,7",
+            "3,7"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "G",
+            "A#"
+        ],
+        "chord_type": "Major",
+        "name": "D# Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,6",
+            "2,8",
+            "3,8"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G#",
+            "B"
+        ],
+        "chord_type": "Major",
+        "name": "E Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,7",
+            "2,9",
+            "3,9"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "A",
+            "C"
+        ],
+        "chord_type": "Major",
+        "name": "F Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,8",
+            "2,10",
+            "3,10"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A#",
+            "C#"
+        ],
+        "chord_type": "Major",
+        "name": "F# Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,9",
+            "2,11",
+            "3,11"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "B",
+            "D"
+        ],
+        "chord_type": "Major",
+        "name": "G Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,10",
+            "2,0",
+            "3,0"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "C",
+            "D#"
+        ],
+        "chord_type": "Major",
+        "name": "G# Major Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,11",
+            "2,1",
+            "3,1"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C",
+            "E"
+        ],
+        "chord_type": "Minor",
+        "name": "A Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,0",
+            "2,1",
+            "3,2"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "C#",
+            "F"
+        ],
+        "chord_type": "Minor",
+        "name": "A# Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,1",
+            "2,2",
+            "3,3"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D",
+            "F#"
+        ],
+        "chord_type": "Minor",
+        "name": "B Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,2",
+            "2,3",
+            "3,4"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "D#",
+            "G"
+        ],
+        "chord_type": "Minor",
+        "name": "C Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,3",
+            "2,4",
+            "3,5"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "E",
+            "G#"
+        ],
+        "chord_type": "Minor",
+        "name": "C# Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,4",
+            "2,5",
+            "3,6"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F",
+            "A"
+        ],
+        "chord_type": "Minor",
+        "name": "D Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,5",
+            "2,6",
+            "3,7"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "F#",
+            "A#"
+        ],
+        "chord_type": "Minor",
+        "name": "D# Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,6",
+            "2,7",
+            "3,8"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G",
+            "B"
+        ],
+        "chord_type": "Minor",
+        "name": "E Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,7",
+            "2,8",
+            "3,9"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "G#",
+            "C"
+        ],
+        "chord_type": "Minor",
+        "name": "F Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,8",
+            "2,9",
+            "3,10"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A",
+            "C#"
+        ],
+        "chord_type": "Minor",
+        "name": "F# Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,9",
+            "2,10",
+            "3,11"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "A#",
+            "D"
+        ],
+        "chord_type": "Minor",
+        "name": "G Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,10",
+            "2,11",
+            "3,0"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "B",
+            "D#"
+        ],
+        "chord_type": "Minor",
+        "name": "G# Minor Root Position",
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,11",
+            "2,0",
+            "3,1"
+        ]
+    },
+    {
+        "name": "A Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "E",
+            "A"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,5",
+            "2,5",
+            "3,6"
+        ]
+    },
+    {
+        "name": "A Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "A",
+            "C#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,9",
+            "2,10",
+            "3,9"
+        ]
+    },
+    {
+        "name": "A# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,6",
+            "2,6",
+            "3,7"
+        ]
+    },
+    {
+        "name": "A# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "A#",
+            "D"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,10",
+            "2,11",
+            "3,10"
+        ]
+    },
+    {
+        "name": "B Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,7",
+            "2,7",
+            "3,8"
+        ]
+    },
+    {
+        "name": "B Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "B",
+            "D#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,11",
+            "2,0",
+            "3,11"
+        ]
+    },
+    {
+        "name": "C Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "G",
+            "C"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,8",
+            "2,8",
+            "3,9"
+        ]
+    },
+    {
+        "name": "C Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "C",
+            "E"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,0",
+            "2,1",
+            "3,0"
+        ]
+    },
+    {
+        "name": "C# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,9",
+            "2,9",
+            "3,10"
+        ]
+    },
+    {
+        "name": "C# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "C#",
+            "F"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,1",
+            "2,2",
+            "3,1"
+        ]
+    },
+    {
+        "name": "D Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "A",
+            "D"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,10",
+            "2,10",
+            "3,11"
+        ]
+    },
+    {
+        "name": "D Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "D",
+            "F#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,2",
+            "2,3",
+            "3,2"
+        ]
+    },
+    {
+        "name": "D# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,11",
+            "2,11",
+            "3,0"
+        ]
+    },
+    {
+        "name": "D# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "D#",
+            "G"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,3",
+            "2,4",
+            "3,3"
+        ]
+    },
+    {
+        "name": "E Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "B",
+            "E"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,0",
+            "2,0",
+            "3,1"
+        ]
+    },
+    {
+        "name": "E Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "E",
+            "G#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,4",
+            "2,5",
+            "3,4"
+        ]
+    },
+    {
+        "name": "F Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "C",
+            "F"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,1",
+            "2,1",
+            "3,2"
+        ]
+    },
+    {
+        "name": "F Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "F",
+            "A"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,5",
+            "2,6",
+            "3,5"
+        ]
+    },
+    {
+        "name": "F# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,2",
+            "2,2",
+            "3,3"
+        ]
+    },
+    {
+        "name": "F# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "F#",
+            "A#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,6",
+            "2,7",
+            "3,6"
+        ]
+    },
+    {
+        "name": "G Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "D",
+            "G"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,3",
+            "2,3",
+            "3,4"
+        ]
+    },
+    {
+        "name": "G Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "G",
+            "B"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,7",
+            "2,8",
+            "3,7"
+        ]
+    },
+    {
+        "name": "G# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,4",
+            "2,4",
+            "3,5"
+        ]
+    },
+    {
+        "name": "G# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "G#",
+            "C"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,8",
+            "2,9",
+            "3,8"
+        ]
+    },
+    {
+        "name": "A Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "E",
+            "A"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,5",
+            "2,5",
+            "3,5"
+        ]
+    },
+    {
+        "name": "A Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "A",
+            "C"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,8",
+            "2,10",
+            "3,9"
+        ]
+    },
+    {
+        "name": "A# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,6",
+            "2,6",
+            "3,6"
+        ]
+    },
+    {
+        "name": "A# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A#",
+            "C#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,9",
+            "2,11",
+            "3,10"
+        ]
+    },
+    {
+        "name": "B Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,7",
+            "2,7",
+            "3,7"
+        ]
+    },
+    {
+        "name": "B Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "B",
+            "D"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,10",
+            "2,0",
+            "3,11"
+        ]
+    },
+    {
+        "name": "C Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G",
+            "C"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,8",
+            "2,8",
+            "3,8"
+        ]
+    },
+    {
+        "name": "C Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "C",
+            "D#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,11",
+            "2,1",
+            "3,0"
+        ]
+    },
+    {
+        "name": "C# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,9",
+            "2,9",
+            "3,9"
+        ]
+    },
+    {
+        "name": "C# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C#",
+            "E"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,0",
+            "2,2",
+            "3,1"
+        ]
+    },
+    {
+        "name": "D Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A",
+            "D"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,10",
+            "2,10",
+            "3,10"
+        ]
+    },
+    {
+        "name": "D Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "D",
+            "F"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,1",
+            "2,3",
+            "3,2"
+        ]
+    },
+    {
+        "name": "D# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,11",
+            "2,11",
+            "3,11"
+        ]
+    },
+    {
+        "name": "D# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D#",
+            "F#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,2",
+            "2,4",
+            "3,3"
+        ]
+    },
+    {
+        "name": "E Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "B",
+            "E"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,0",
+            "2,0",
+            "3,0"
+        ]
+    },
+    {
+        "name": "E Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "E",
+            "G"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,3",
+            "2,5",
+            "3,4"
+        ]
+    },
+    {
+        "name": "F Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C",
+            "F"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,1",
+            "2,1",
+            "3,1"
+        ]
+    },
+    {
+        "name": "F Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "F",
+            "G#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,4",
+            "2,6",
+            "3,5"
+        ]
+    },
+    {
+        "name": "F# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,2",
+            "2,2",
+            "3,2"
+        ]
+    },
+    {
+        "name": "F# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F#",
+            "A"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,5",
+            "2,7",
+            "3,6"
+        ]
+    },
+    {
+        "name": "G Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D",
+            "G"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,3",
+            "2,3",
+            "3,3"
+        ]
+    },
+    {
+        "name": "G Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "G",
+            "A#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,6",
+            "2,8",
+            "3,7"
+        ]
+    },
+    {
+        "name": "G# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,4",
+            "2,4",
+            "3,4"
+        ]
+    },
+    {
+        "name": "G# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G#",
+            "B"
+        ],
+        "strings": [
+            1,
+            2,
+            3
+        ],
+        "note_locations": [
+            "1,7",
+            "2,9",
+            "3,8"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C#",
+            "E"
+        ],
+        "chord_type": "Major",
+        "name": "A Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,5",
+            "3,6",
+            "4,7"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "D",
+            "F"
+        ],
+        "chord_type": "Major",
+        "name": "A# Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,6",
+            "3,7",
+            "4,8"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D#",
+            "F#"
+        ],
+        "chord_type": "Major",
+        "name": "B Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,7",
+            "3,8",
+            "4,9"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "E",
+            "G"
+        ],
+        "chord_type": "Major",
+        "name": "C Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,8",
+            "3,9",
+            "4,10"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "F",
+            "G#"
+        ],
+        "chord_type": "Major",
+        "name": "C# Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,9",
+            "3,10",
+            "4,11"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F#",
+            "A"
+        ],
+        "chord_type": "Major",
+        "name": "D Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,10",
+            "3,11",
+            "4,0"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "G",
+            "A#"
+        ],
+        "chord_type": "Major",
+        "name": "D# Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,11",
+            "3,0",
+            "4,1"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G#",
+            "B"
+        ],
+        "chord_type": "Major",
+        "name": "E Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,0",
+            "3,1",
+            "4,2"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "A",
+            "C"
+        ],
+        "chord_type": "Major",
+        "name": "F Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,1",
+            "3,2",
+            "4,3"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A#",
+            "C#"
+        ],
+        "chord_type": "Major",
+        "name": "F# Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,2",
+            "3,3",
+            "4,4"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "B",
+            "D"
+        ],
+        "chord_type": "Major",
+        "name": "G Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,3",
+            "3,4",
+            "4,5"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "C",
+            "D#"
+        ],
+        "chord_type": "Major",
+        "name": "G# Major Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,4",
+            "3,5",
+            "4,6"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C",
+            "E"
+        ],
+        "chord_type": "Minor",
+        "name": "A Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,5",
+            "3,5",
+            "4,7"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "C#",
+            "F"
+        ],
+        "chord_type": "Minor",
+        "name": "A# Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,6",
+            "3,6",
+            "4,8"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D",
+            "F#"
+        ],
+        "chord_type": "Minor",
+        "name": "B Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,7",
+            "3,7",
+            "4,9"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "D#",
+            "G"
+        ],
+        "chord_type": "Minor",
+        "name": "C Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,8",
+            "3,8",
+            "4,10"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "E",
+            "G#"
+        ],
+        "chord_type": "Minor",
+        "name": "C# Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,9",
+            "3,9",
+            "4,11"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F",
+            "A"
+        ],
+        "chord_type": "Minor",
+        "name": "D Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,10",
+            "3,10",
+            "4,0"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "F#",
+            "A#"
+        ],
+        "chord_type": "Minor",
+        "name": "D# Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,11",
+            "3,11",
+            "4,1"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G",
+            "B"
+        ],
+        "chord_type": "Minor",
+        "name": "E Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,0",
+            "3,0",
+            "4,2"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "G#",
+            "C"
+        ],
+        "chord_type": "Minor",
+        "name": "F Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,1",
+            "3,1",
+            "4,3"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A",
+            "C#"
+        ],
+        "chord_type": "Minor",
+        "name": "F# Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,2",
+            "3,2",
+            "4,4"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "A#",
+            "D"
+        ],
+        "chord_type": "Minor",
+        "name": "G Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,3",
+            "3,3",
+            "4,5"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "B",
+            "D#"
+        ],
+        "chord_type": "Minor",
+        "name": "G# Minor Root Position",
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,4",
+            "3,4",
+            "4,6"
+        ]
+    },
+    {
+        "name": "A Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "E",
+            "A"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,10",
+            "3,9",
+            "4,11"
+        ]
+    },
+    {
+        "name": "A Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "A",
+            "C#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,2",
+            "3,2",
+            "4,2"
+        ]
+    },
+    {
+        "name": "A# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,11",
+            "3,10",
+            "4,0"
+        ]
+    },
+    {
+        "name": "A# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "A#",
+            "D"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,3",
+            "3,3",
+            "4,3"
+        ]
+    },
+    {
+        "name": "B Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,0",
+            "3,11",
+            "4,1"
+        ]
+    },
+    {
+        "name": "B Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "B",
+            "D#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,4",
+            "3,4",
+            "4,4"
+        ]
+    },
+    {
+        "name": "C Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "G",
+            "C"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,1",
+            "3,0",
+            "4,2"
+        ]
+    },
+    {
+        "name": "C Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "C",
+            "E"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,5",
+            "3,5",
+            "4,5"
+        ]
+    },
+    {
+        "name": "C# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,2",
+            "3,1",
+            "4,3"
+        ]
+    },
+    {
+        "name": "C# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "C#",
+            "F"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,6",
+            "3,6",
+            "4,6"
+        ]
+    },
+    {
+        "name": "D Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "A",
+            "D"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,3",
+            "3,2",
+            "4,4"
+        ]
+    },
+    {
+        "name": "D Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "D",
+            "F#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,7",
+            "3,7",
+            "4,7"
+        ]
+    },
+    {
+        "name": "D# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,4",
+            "3,3",
+            "4,5"
+        ]
+    },
+    {
+        "name": "D# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "D#",
+            "G"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,8",
+            "3,8",
+            "4,8"
+        ]
+    },
+    {
+        "name": "E Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "B",
+            "E"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,5",
+            "3,4",
+            "4,6"
+        ]
+    },
+    {
+        "name": "E Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "E",
+            "G#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,9",
+            "3,9",
+            "4,9"
+        ]
+    },
+    {
+        "name": "F Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "C",
+            "F"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,6",
+            "3,5",
+            "4,7"
+        ]
+    },
+    {
+        "name": "F Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "F",
+            "A"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,10",
+            "3,10",
+            "4,10"
+        ]
+    },
+    {
+        "name": "F# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,7",
+            "3,6",
+            "4,8"
+        ]
+    },
+    {
+        "name": "F# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "F#",
+            "A#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,11",
+            "3,11",
+            "4,11"
+        ]
+    },
+    {
+        "name": "G Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "D",
+            "G"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,8",
+            "3,7",
+            "4,9"
+        ]
+    },
+    {
+        "name": "G Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "G",
+            "B"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,0",
+            "3,0",
+            "4,0"
+        ]
+    },
+    {
+        "name": "G# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,9",
+            "3,8",
+            "4,10"
+        ]
+    },
+    {
+        "name": "G# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "G#",
+            "C"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,1",
+            "3,1",
+            "4,1"
+        ]
+    },
+    {
+        "name": "A Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "E",
+            "A"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,10",
+            "3,9",
+            "4,10"
+        ]
+    },
+    {
+        "name": "A Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "A",
+            "C"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,1",
+            "3,2",
+            "4,2"
+        ]
+    },
+    {
+        "name": "A# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,11",
+            "3,10",
+            "4,11"
+        ]
+    },
+    {
+        "name": "A# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A#",
+            "C#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,2",
+            "3,3",
+            "4,3"
+        ]
+    },
+    {
+        "name": "B Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,0",
+            "3,11",
+            "4,0"
+        ]
+    },
+    {
+        "name": "B Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "B",
+            "D"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,3",
+            "3,4",
+            "4,4"
+        ]
+    },
+    {
+        "name": "C Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G",
+            "C"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,1",
+            "3,0",
+            "4,1"
+        ]
+    },
+    {
+        "name": "C Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "C",
+            "D#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,4",
+            "3,5",
+            "4,5"
+        ]
+    },
+    {
+        "name": "C# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,2",
+            "3,1",
+            "4,2"
+        ]
+    },
+    {
+        "name": "C# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C#",
+            "E"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,5",
+            "3,6",
+            "4,6"
+        ]
+    },
+    {
+        "name": "D Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A",
+            "D"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,3",
+            "3,2",
+            "4,3"
+        ]
+    },
+    {
+        "name": "D Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "D",
+            "F"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,6",
+            "3,7",
+            "4,7"
+        ]
+    },
+    {
+        "name": "D# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,4",
+            "3,3",
+            "4,4"
+        ]
+    },
+    {
+        "name": "D# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D#",
+            "F#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,7",
+            "3,8",
+            "4,8"
+        ]
+    },
+    {
+        "name": "E Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "B",
+            "E"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,5",
+            "3,4",
+            "4,5"
+        ]
+    },
+    {
+        "name": "E Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "E",
+            "G"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,8",
+            "3,9",
+            "4,9"
+        ]
+    },
+    {
+        "name": "F Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C",
+            "F"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,6",
+            "3,5",
+            "4,6"
+        ]
+    },
+    {
+        "name": "F Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "F",
+            "G#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,9",
+            "3,10",
+            "4,10"
+        ]
+    },
+    {
+        "name": "F# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,7",
+            "3,6",
+            "4,7"
+        ]
+    },
+    {
+        "name": "F# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F#",
+            "A"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,10",
+            "3,11",
+            "4,11"
+        ]
+    },
+    {
+        "name": "G Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D",
+            "G"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,8",
+            "3,7",
+            "4,8"
+        ]
+    },
+    {
+        "name": "G Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "G",
+            "A#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,11",
+            "3,0",
+            "4,0"
+        ]
+    },
+    {
+        "name": "G# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,9",
+            "3,8",
+            "4,9"
+        ]
+    },
+    {
+        "name": "G# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G#",
+            "B"
+        ],
+        "strings": [
+            2,
+            3,
+            4
+        ],
+        "note_locations": [
+            "2,0",
+            "3,1",
+            "4,1"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C#",
+            "E"
+        ],
+        "chord_type": "Major",
+        "name": "A Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,9",
+            "4,11",
+            "5,0"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "D",
+            "F"
+        ],
+        "chord_type": "Major",
+        "name": "A# Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,10",
+            "4,0",
+            "5,1"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D#",
+            "F#"
+        ],
+        "chord_type": "Major",
+        "name": "B Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,11",
+            "4,1",
+            "5,2"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "E",
+            "G"
+        ],
+        "chord_type": "Major",
+        "name": "C Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,0",
+            "4,2",
+            "5,3"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "F",
+            "G#"
+        ],
+        "chord_type": "Major",
+        "name": "C# Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,1",
+            "4,3",
+            "5,4"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F#",
+            "A"
+        ],
+        "chord_type": "Major",
+        "name": "D Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,2",
+            "4,4",
+            "5,5"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "G",
+            "A#"
+        ],
+        "chord_type": "Major",
+        "name": "D# Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,3",
+            "4,5",
+            "5,6"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G#",
+            "B"
+        ],
+        "chord_type": "Major",
+        "name": "E Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,4",
+            "4,6",
+            "5,7"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "A",
+            "C"
+        ],
+        "chord_type": "Major",
+        "name": "F Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,5",
+            "4,7",
+            "5,8"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A#",
+            "C#"
+        ],
+        "chord_type": "Major",
+        "name": "F# Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,6",
+            "4,8",
+            "5,9"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "B",
+            "D"
+        ],
+        "chord_type": "Major",
+        "name": "G Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,7",
+            "4,9",
+            "5,10"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "C",
+            "D#"
+        ],
+        "chord_type": "Major",
+        "name": "G# Major Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,8",
+            "4,10",
+            "5,11"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C",
+            "E"
+        ],
+        "chord_type": "Minor",
+        "name": "A Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,9",
+            "4,10",
+            "5,0"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "C#",
+            "F"
+        ],
+        "chord_type": "Minor",
+        "name": "A# Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,10",
+            "4,11",
+            "5,1"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D",
+            "F#"
+        ],
+        "chord_type": "Minor",
+        "name": "B Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,11",
+            "4,0",
+            "5,2"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "D#",
+            "G"
+        ],
+        "chord_type": "Minor",
+        "name": "C Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,0",
+            "4,1",
+            "5,3"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "E",
+            "G#"
+        ],
+        "chord_type": "Minor",
+        "name": "C# Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,1",
+            "4,2",
+            "5,4"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F",
+            "A"
+        ],
+        "chord_type": "Minor",
+        "name": "D Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,2",
+            "4,3",
+            "5,5"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "F#",
+            "A#"
+        ],
+        "chord_type": "Minor",
+        "name": "D# Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,3",
+            "4,4",
+            "5,6"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G",
+            "B"
+        ],
+        "chord_type": "Minor",
+        "name": "E Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,4",
+            "4,5",
+            "5,7"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "G#",
+            "C"
+        ],
+        "chord_type": "Minor",
+        "name": "F Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,5",
+            "4,6",
+            "5,8"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A",
+            "C#"
+        ],
+        "chord_type": "Minor",
+        "name": "F# Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,6",
+            "4,7",
+            "5,9"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "A#",
+            "D"
+        ],
+        "chord_type": "Minor",
+        "name": "G Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,7",
+            "4,8",
+            "5,10"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "B",
+            "D#"
+        ],
+        "chord_type": "Minor",
+        "name": "G# Minor Root Position",
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,8",
+            "4,9",
+            "5,11"
+        ]
+    },
+    {
+        "name": "A Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "E",
+            "A"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,2",
+            "4,2",
+            "5,4"
+        ]
+    },
+    {
+        "name": "A Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "A",
+            "C#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,6",
+            "4,7",
+            "5,7"
+        ]
+    },
+    {
+        "name": "A# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,3",
+            "4,3",
+            "5,5"
+        ]
+    },
+    {
+        "name": "A# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "A#",
+            "D"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,7",
+            "4,8",
+            "5,8"
+        ]
+    },
+    {
+        "name": "B Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,4",
+            "4,4",
+            "5,6"
+        ]
+    },
+    {
+        "name": "B Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "B",
+            "D#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,8",
+            "4,9",
+            "5,9"
+        ]
+    },
+    {
+        "name": "C Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "G",
+            "C"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,5",
+            "4,5",
+            "5,7"
+        ]
+    },
+    {
+        "name": "C Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "C",
+            "E"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,9",
+            "4,10",
+            "5,10"
+        ]
+    },
+    {
+        "name": "C# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,6",
+            "4,6",
+            "5,8"
+        ]
+    },
+    {
+        "name": "C# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "C#",
+            "F"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,10",
+            "4,11",
+            "5,11"
+        ]
+    },
+    {
+        "name": "D Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "A",
+            "D"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,7",
+            "4,7",
+            "5,9"
+        ]
+    },
+    {
+        "name": "D Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "D",
+            "F#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,11",
+            "4,0",
+            "5,0"
+        ]
+    },
+    {
+        "name": "D# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,8",
+            "4,8",
+            "5,10"
+        ]
+    },
+    {
+        "name": "D# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "D#",
+            "G"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,0",
+            "4,1",
+            "5,1"
+        ]
+    },
+    {
+        "name": "E Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "B",
+            "E"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,9",
+            "4,9",
+            "5,11"
+        ]
+    },
+    {
+        "name": "E Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "E",
+            "G#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,1",
+            "4,2",
+            "5,2"
+        ]
+    },
+    {
+        "name": "F Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "C",
+            "F"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,10",
+            "4,10",
+            "5,0"
+        ]
+    },
+    {
+        "name": "F Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "F",
+            "A"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,2",
+            "4,3",
+            "5,3"
+        ]
+    },
+    {
+        "name": "F# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,11",
+            "4,11",
+            "5,1"
+        ]
+    },
+    {
+        "name": "F# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "F#",
+            "A#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,3",
+            "4,4",
+            "5,4"
+        ]
+    },
+    {
+        "name": "G Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "D",
+            "G"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,0",
+            "4,0",
+            "5,2"
+        ]
+    },
+    {
+        "name": "G Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "G",
+            "B"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,4",
+            "4,5",
+            "5,5"
+        ]
+    },
+    {
+        "name": "G# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,1",
+            "4,1",
+            "5,3"
+        ]
+    },
+    {
+        "name": "G# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "G#",
+            "C"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,5",
+            "4,6",
+            "5,6"
+        ]
+    },
+    {
+        "name": "A Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "E",
+            "A"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,2",
+            "4,2",
+            "5,3"
+        ]
+    },
+    {
+        "name": "A Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "A",
+            "C"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,5",
+            "4,7",
+            "5,7"
+        ]
+    },
+    {
+        "name": "A# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,3",
+            "4,3",
+            "5,4"
+        ]
+    },
+    {
+        "name": "A# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A#",
+            "C#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,6",
+            "4,8",
+            "5,8"
+        ]
+    },
+    {
+        "name": "B Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,4",
+            "4,4",
+            "5,5"
+        ]
+    },
+    {
+        "name": "B Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "B",
+            "D"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,7",
+            "4,9",
+            "5,9"
+        ]
+    },
+    {
+        "name": "C Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G",
+            "C"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,5",
+            "4,5",
+            "5,6"
+        ]
+    },
+    {
+        "name": "C Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "C",
+            "D#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,8",
+            "4,10",
+            "5,10"
+        ]
+    },
+    {
+        "name": "C# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,6",
+            "4,6",
+            "5,7"
+        ]
+    },
+    {
+        "name": "C# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C#",
+            "E"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,9",
+            "4,11",
+            "5,11"
+        ]
+    },
+    {
+        "name": "D Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A",
+            "D"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,7",
+            "4,7",
+            "5,8"
+        ]
+    },
+    {
+        "name": "D Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "D",
+            "F"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,10",
+            "4,0",
+            "5,0"
+        ]
+    },
+    {
+        "name": "D# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,8",
+            "4,8",
+            "5,9"
+        ]
+    },
+    {
+        "name": "D# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D#",
+            "F#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,11",
+            "4,1",
+            "5,1"
+        ]
+    },
+    {
+        "name": "E Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "B",
+            "E"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,9",
+            "4,9",
+            "5,10"
+        ]
+    },
+    {
+        "name": "E Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "E",
+            "G"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,0",
+            "4,2",
+            "5,2"
+        ]
+    },
+    {
+        "name": "F Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C",
+            "F"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,10",
+            "4,10",
+            "5,11"
+        ]
+    },
+    {
+        "name": "F Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "F",
+            "G#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,1",
+            "4,3",
+            "5,3"
+        ]
+    },
+    {
+        "name": "F# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,11",
+            "4,11",
+            "5,0"
+        ]
+    },
+    {
+        "name": "F# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F#",
+            "A"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,2",
+            "4,4",
+            "5,4"
+        ]
+    },
+    {
+        "name": "G Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D",
+            "G"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,0",
+            "4,0",
+            "5,1"
+        ]
+    },
+    {
+        "name": "G Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "G",
+            "A#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,3",
+            "4,5",
+            "5,5"
+        ]
+    },
+    {
+        "name": "G# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,1",
+            "4,1",
+            "5,2"
+        ]
+    },
+    {
+        "name": "G# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G#",
+            "B"
+        ],
+        "strings": [
+            3,
+            4,
+            5
+        ],
+        "note_locations": [
+            "3,4",
+            "4,6",
+            "5,6"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C#",
+            "E"
+        ],
+        "chord_type": "Major",
+        "name": "A Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,2",
+            "5,4",
+            "6,5"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "D",
+            "F"
+        ],
+        "chord_type": "Major",
+        "name": "A# Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,3",
+            "5,5",
+            "6,6"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D#",
+            "F#"
+        ],
+        "chord_type": "Major",
+        "name": "B Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,4",
+            "5,6",
+            "6,7"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "E",
+            "G"
+        ],
+        "chord_type": "Major",
+        "name": "C Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,5",
+            "5,7",
+            "6,8"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "F",
+            "G#"
+        ],
+        "chord_type": "Major",
+        "name": "C# Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,6",
+            "5,8",
+            "6,9"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F#",
+            "A"
+        ],
+        "chord_type": "Major",
+        "name": "D Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,7",
+            "5,9",
+            "6,10"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "G",
+            "A#"
+        ],
+        "chord_type": "Major",
+        "name": "D# Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,8",
+            "5,10",
+            "6,11"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G#",
+            "B"
+        ],
+        "chord_type": "Major",
+        "name": "E Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,9",
+            "5,11",
+            "6,0"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "A",
+            "C"
+        ],
+        "chord_type": "Major",
+        "name": "F Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,10",
+            "5,0",
+            "6,1"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A#",
+            "C#"
+        ],
+        "chord_type": "Major",
+        "name": "F# Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,11",
+            "5,1",
+            "6,2"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "B",
+            "D"
+        ],
+        "chord_type": "Major",
+        "name": "G Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,0",
+            "5,2",
+            "6,3"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "C",
+            "D#"
+        ],
+        "chord_type": "Major",
+        "name": "G# Major Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,1",
+            "5,3",
+            "6,4"
+        ]
+    },
+    {
+        "notes": [
+            "A",
+            "C",
+            "E"
+        ],
+        "chord_type": "Minor",
+        "name": "A Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,2",
+            "5,3",
+            "6,5"
+        ]
+    },
+    {
+        "notes": [
+            "A#",
+            "C#",
+            "F"
+        ],
+        "chord_type": "Minor",
+        "name": "A# Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,3",
+            "5,4",
+            "6,6"
+        ]
+    },
+    {
+        "notes": [
+            "B",
+            "D",
+            "F#"
+        ],
+        "chord_type": "Minor",
+        "name": "B Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,4",
+            "5,5",
+            "6,7"
+        ]
+    },
+    {
+        "notes": [
+            "C",
+            "D#",
+            "G"
+        ],
+        "chord_type": "Minor",
+        "name": "C Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,5",
+            "5,6",
+            "6,8"
+        ]
+    },
+    {
+        "notes": [
+            "C#",
+            "E",
+            "G#"
+        ],
+        "chord_type": "Minor",
+        "name": "C# Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,6",
+            "5,7",
+            "6,9"
+        ]
+    },
+    {
+        "notes": [
+            "D",
+            "F",
+            "A"
+        ],
+        "chord_type": "Minor",
+        "name": "D Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,7",
+            "5,8",
+            "6,10"
+        ]
+    },
+    {
+        "notes": [
+            "D#",
+            "F#",
+            "A#"
+        ],
+        "chord_type": "Minor",
+        "name": "D# Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,8",
+            "5,9",
+            "6,11"
+        ]
+    },
+    {
+        "notes": [
+            "E",
+            "G",
+            "B"
+        ],
+        "chord_type": "Minor",
+        "name": "E Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,9",
+            "5,10",
+            "6,0"
+        ]
+    },
+    {
+        "notes": [
+            "F",
+            "G#",
+            "C"
+        ],
+        "chord_type": "Minor",
+        "name": "F Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,10",
+            "5,11",
+            "6,1"
+        ]
+    },
+    {
+        "notes": [
+            "F#",
+            "A",
+            "C#"
+        ],
+        "chord_type": "Minor",
+        "name": "F# Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,11",
+            "5,0",
+            "6,2"
+        ]
+    },
+    {
+        "notes": [
+            "G",
+            "A#",
+            "D"
+        ],
+        "chord_type": "Minor",
+        "name": "G Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,0",
+            "5,1",
+            "6,3"
+        ]
+    },
+    {
+        "notes": [
+            "G#",
+            "B",
+            "D#"
+        ],
+        "chord_type": "Minor",
+        "name": "G# Minor Root Position",
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,1",
+            "5,2",
+            "6,4"
+        ]
+    },
+    {
+        "name": "A Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "E",
+            "A"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,7",
+            "5,7",
+            "6,9"
+        ]
+    },
+    {
+        "name": "A Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "A",
+            "C#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,11",
+            "5,0",
+            "6,0"
+        ]
+    },
+    {
+        "name": "A# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,8",
+            "5,8",
+            "6,10"
+        ]
+    },
+    {
+        "name": "A# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "A#",
+            "D"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,0",
+            "5,1",
+            "6,1"
+        ]
+    },
+    {
+        "name": "B Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,9",
+            "5,9",
+            "6,11"
+        ]
+    },
+    {
+        "name": "B Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "B",
+            "D#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,1",
+            "5,2",
+            "6,2"
+        ]
+    },
+    {
+        "name": "C Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "E",
+            "G",
+            "C"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,10",
+            "5,10",
+            "6,0"
+        ]
+    },
+    {
+        "name": "C Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "C",
+            "E"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,2",
+            "5,3",
+            "6,3"
+        ]
+    },
+    {
+        "name": "C# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,11",
+            "5,11",
+            "6,1"
+        ]
+    },
+    {
+        "name": "C# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "C#",
+            "F"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,3",
+            "5,4",
+            "6,4"
+        ]
+    },
+    {
+        "name": "D Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "F#",
+            "A",
+            "D"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,0",
+            "5,0",
+            "6,2"
+        ]
+    },
+    {
+        "name": "D Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "D",
+            "F#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,4",
+            "5,5",
+            "6,5"
+        ]
+    },
+    {
+        "name": "D# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,1",
+            "5,1",
+            "6,3"
+        ]
+    },
+    {
+        "name": "D# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "D#",
+            "G"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,5",
+            "5,6",
+            "6,6"
+        ]
+    },
+    {
+        "name": "E Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "G#",
+            "B",
+            "E"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,2",
+            "5,2",
+            "6,4"
+        ]
+    },
+    {
+        "name": "E Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "E",
+            "G#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,6",
+            "5,7",
+            "6,7"
+        ]
+    },
+    {
+        "name": "F Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A",
+            "C",
+            "F"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,3",
+            "5,3",
+            "6,5"
+        ]
+    },
+    {
+        "name": "F Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "F",
+            "A"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,7",
+            "5,8",
+            "6,8"
+        ]
+    },
+    {
+        "name": "F# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "A#",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,4",
+            "5,4",
+            "6,6"
+        ]
+    },
+    {
+        "name": "F# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C#",
+            "F#",
+            "A#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,8",
+            "5,9",
+            "6,9"
+        ]
+    },
+    {
+        "name": "G Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "B",
+            "D",
+            "G"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,5",
+            "5,5",
+            "6,7"
+        ]
+    },
+    {
+        "name": "G Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D",
+            "G",
+            "B"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,9",
+            "5,10",
+            "6,10"
+        ]
+    },
+    {
+        "name": "G# Major First Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "C",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,6",
+            "5,6",
+            "6,8"
+        ]
+    },
+    {
+        "name": "G# Major Second Inversion",
+        "chord_type": "Major",
+        "notes": [
+            "D#",
+            "G#",
+            "C"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,10",
+            "5,11",
+            "6,11"
+        ]
+    },
+    {
+        "name": "A Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "E",
+            "A"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,7",
+            "5,7",
+            "6,8"
+        ]
+    },
+    {
+        "name": "A Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "A",
+            "C"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,10",
+            "5,0",
+            "6,0"
+        ]
+    },
+    {
+        "name": "A# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F",
+            "A#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,8",
+            "5,8",
+            "6,9"
+        ]
+    },
+    {
+        "name": "A# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A#",
+            "C#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,11",
+            "5,1",
+            "6,1"
+        ]
+    },
+    {
+        "name": "B Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "F#",
+            "B"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,9",
+            "5,9",
+            "6,10"
+        ]
+    },
+    {
+        "name": "B Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "B",
+            "D"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,0",
+            "5,2",
+            "6,2"
+        ]
+    },
+    {
+        "name": "C Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G",
+            "C"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,10",
+            "5,10",
+            "6,11"
+        ]
+    },
+    {
+        "name": "C Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "C",
+            "D#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,1",
+            "5,3",
+            "6,3"
+        ]
+    },
+    {
+        "name": "C# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "E",
+            "G#",
+            "C#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,11",
+            "5,11",
+            "6,0"
+        ]
+    },
+    {
+        "name": "C# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C#",
+            "E"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,2",
+            "5,4",
+            "6,4"
+        ]
+    },
+    {
+        "name": "D Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F",
+            "A",
+            "D"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,0",
+            "5,0",
+            "6,1"
+        ]
+    },
+    {
+        "name": "D Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "D",
+            "F"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,3",
+            "5,5",
+            "6,5"
+        ]
+    },
+    {
+        "name": "D# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "F#",
+            "A#",
+            "D#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,1",
+            "5,1",
+            "6,2"
+        ]
+    },
+    {
+        "name": "D# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D#",
+            "F#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,4",
+            "5,6",
+            "6,6"
+        ]
+    },
+    {
+        "name": "E Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G",
+            "B",
+            "E"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,2",
+            "5,2",
+            "6,3"
+        ]
+    },
+    {
+        "name": "E Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "E",
+            "G"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,5",
+            "5,7",
+            "6,7"
+        ]
+    },
+    {
+        "name": "F Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "G#",
+            "C",
+            "F"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,3",
+            "5,3",
+            "6,4"
+        ]
+    },
+    {
+        "name": "F Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C",
+            "F",
+            "G#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,6",
+            "5,8",
+            "6,8"
+        ]
+    },
+    {
+        "name": "F# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A",
+            "C#",
+            "F#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,4",
+            "5,4",
+            "6,5"
+        ]
+    },
+    {
+        "name": "F# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "C#",
+            "F#",
+            "A"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,7",
+            "5,9",
+            "6,9"
+        ]
+    },
+    {
+        "name": "G Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "A#",
+            "D",
+            "G"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,5",
+            "5,5",
+            "6,6"
+        ]
+    },
+    {
+        "name": "G Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D",
+            "G",
+            "A#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,8",
+            "5,10",
+            "6,10"
+        ]
+    },
+    {
+        "name": "G# Minor First Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "B",
+            "D#",
+            "G#"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,6",
+            "5,6",
+            "6,7"
+        ]
+    },
+    {
+        "name": "G# Minor Second Inversion",
+        "chord_type": "Minor",
+        "notes": [
+            "D#",
+            "G#",
+            "B"
+        ],
+        "strings": [
+            4,
+            5,
+            6
+        ],
+        "note_locations": [
+            "4,9",
+            "5,11",
+            "6,11"
+        ]
+    }
+]
