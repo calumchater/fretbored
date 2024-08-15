@@ -27,3 +27,18 @@ def triads():
     results = list(map(lambda row: row._asdict(), triads))
 
     return jsonify(results)
+
+@app.route("/scales", methods=["GET"])
+def scales():
+    # Request will always contain these parameters
+    number_of_questions = request.args.get("number_of_questions")
+
+    query = text(
+        f"SELECT * FROM scales LIMIT {int(number_of_questions)}"
+    )
+
+    scales = db.session.execute(query)
+
+    results = list(map(lambda row: row._asdict(), triads))
+
+    return jsonify(results)

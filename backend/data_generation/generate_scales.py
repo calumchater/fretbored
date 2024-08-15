@@ -106,7 +106,7 @@ def build_scale(notes, gaps, scale_name):
                 current_string -= 1
 
                 # Make the current position on the next string instead of the one we're already  on
-                current_position = find_note_position(current_string, current_note)
+                current_position = find_note_position(current_string, current_note) 
 
     return scales
 
